@@ -79,6 +79,6 @@ The *Reset* button clears all selections and restores defaults.
 
 Run the project and start ordering pizzas!
 
-🎥 Demo Video
+## 🎥 Demo Video  
 
-▶️ Watch the project in action on YouTube: Pizza Ordering System Demo
+▶️ Watch the project in action on YouTube: [Restaurant Ordering System Demo](youtube.com/watch?v=90YOo6gm0dQ&feature=youtu.be)
