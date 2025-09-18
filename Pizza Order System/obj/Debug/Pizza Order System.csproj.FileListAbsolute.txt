@@ -1,0 +1,11 @@
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\bin\Debug\WindowsFormsApp55_Pizza_Project.exe.config
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\bin\Debug\WindowsFormsApp55_Pizza_Project.exe
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\bin\Debug\WindowsFormsApp55_Pizza_Project.pdb
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\Pizza Order System.csproj.AssemblyReference.cache
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\WindowsFormsApp55_Pizza_Project.MainForm.resources
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\WindowsFormsApp55_Pizza_Project.OrderForm.resources
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\WindowsFormsApp55_Pizza_Project.Properties.Resources.resources
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\Pizza Order System.csproj.GenerateResource.cache
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\Pizza Order System.csproj.CoreCompileInputs.cache
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\WindowsFormsApp55_Pizza_Project.exe
+D:\Pizza_Order_System_WinForms_CSharp\Pizza Order System\obj\Debug\WindowsFormsApp55_Pizza_Project.pdb
