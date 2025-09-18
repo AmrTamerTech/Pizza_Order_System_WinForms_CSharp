@@ -81,4 +81,5 @@ Run the project and start ordering pizzas!
 
 ## 🎥 Demo Video  
 
-▶️ Watch the project in action on YouTube: [Restaurant Ordering System Demo](youtube.com/watch?v=90YOo6gm0dQ&feature=youtu.be)
+▶️ Watch the project in action on YouTube: [Pizza Ordering System Demo](https://www.youtube.com/watch?v=90YOo6gm0dQ)
+
