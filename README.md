@@ -1,4 +1,4 @@
-# 🍕 Pizza_Order_System_WinForms_CSharp ⚡
+# 🍕 Pizza-Order-System-WinForms-CSharp ⚡
 A C# Windows Forms (WinForms) project for building a **Pizza Ordering System** with toppings, receipt, and total calculation. 🚀  
 
 ---
@@ -73,7 +73,7 @@ The *Reset* button clears all selections and restores defaults.
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Pizza_Order_System_WinForms_CSharp.git
+   git clone https://github.com/your-username/Pizza-Order-System-WinForms-CSharp.git
    ```
    Open the project in Visual Studio.
 
